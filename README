@@ -1,0 +1,12 @@
+Hello git! This the README file of 3test_.cpp
+
+This file combines the driver of XILINX-ML605 with PCIE and the socket sender.
+
+The PCIE driver is created by Han Ke in 2013/8.
+
+The socket sender is created bu Meng Yang in 2013/11.
+
+This file is running at Room-610, one of Prof. Lin Xiang's lab.
+
+This program send data from ml-605 which is processed by Liang Gui and send to QT project which created bu Meng Yang and can plot the 3D figure.
+
